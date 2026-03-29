@@ -1,0 +1,61 @@
+filename = 'IndustrialUpgrade-1.12.2-3.3.0.47.jar'
+name = ' [IU] Industrial Upgrade'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'IndustrialUpgrade-1.12.2-3.3.0.47'
+
+[download]
+hash = 'a74feb0f27d26f9eaaddf31e7156969e3c1c754b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7023083
+project-id = 372007
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339069'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '572662'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339065'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339227'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '572971'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1336018'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '572640'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339220'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339077'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339206'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339002'
+type = 'OPTIONAL'
