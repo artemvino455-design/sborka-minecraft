@@ -9,7 +9,8 @@ git -v # Если есть вывод с версией - git установле
 Если нет - скачать (https://git-scm.com/install/windows -> Git for Windows/x64 Setup.)
 
 ```
-1. Открыть папку с модами, зажать Shift и правой кнопкой - "Open PowerShell here"
+1. Открыть папку сборки (.minecraft), зажать Shift и правой кнопкой - "Open PowerShell here"
 2. git clone https://github.com/jhanter555/sborka-minecraft
+3. Удалить README.md и LICENSE
 ```
 ===========================================================
