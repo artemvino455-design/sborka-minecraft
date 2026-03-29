@@ -4,6 +4,8 @@
 ## Установка:
 0. Убедится, что скачан git.  Если нет - скачать (https://git-scm.com/install/windows -> Git for Windows/x64 Setup.)
 1. Открыть командную строку, вбить:
-    git clone https://github.com/jhanter555/sborka-minecraft
+``` shell
+git clone https://github.com/jhanter555/sborka-minecraft
+```
 Содержимое папки модс в соответствующую папку сборки
 ============================================================
