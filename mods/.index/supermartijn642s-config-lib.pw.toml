@@ -1,0 +1,18 @@
+filename = 'supermartijn642configlib-1.1.8-forge-mc1.12.jar'
+name = "SuperMartijn642's Config Lib"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "SuperMartijn642's Config Library 1.1.8 for Forge 1.12"
+
+[download]
+hash = '49f6b461ff22ad8e23bb99679c1f64eee85ee958'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4715393
+project-id = 438332
